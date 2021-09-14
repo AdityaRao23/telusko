@@ -1,4 +1,4 @@
-# travelWebsite
+# TravelWebsite
 
 I have made an Travel webiste,
 It contains registration with unique username, email id and password matching, it also have login and logout page.
